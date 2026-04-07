@@ -17,7 +17,7 @@ Por onde começar na área e Qualidade de Software ?
 ```
 
 <details>
-<summary>Provavalemente a resposta será parecida com esta</summary>
+<summary>💡 Veja um exemplo de resposta</summary>
 
 Começar na área de Qualidade de Software (QA) é uma ótima escolha — tem bastante demanda e várias portas de entrada. Vou te dar um caminho direto, sem enrolação, pra você sair do zero e começar bem:
 
@@ -141,16 +141,16 @@ Procure por vagas como:
 Não espere “estar pronto”.
 Com 1–3 meses de estudo focado, já dá pra começar a aplicar.
 
----
-
 </details>
 
-## Já que entendemos o que é Qualidade de Software vamos começar pelo básico.
+---
+
+## Agora que já que entendemos o que é Qualidade de Software vamos começar pelo básico.
 
 ### Tipos de teste:
 
 <details>
-<summary>O que é Teste Manual ?</summary>
+<summary>✅ O que é Teste Manual ?</summary>
 
 O **Teste Manual** é o processo de verificar se um software funciona corretamente **sem o uso de ferramentas automáticas**. Ou seja, o testador executa cenários de teste **passo a passo**, observa o comportamento do sistema e registra se ele está funcionando conforme o esperado.
 
@@ -167,10 +167,12 @@ O **Teste Manual** é o processo de verificar se um software funciona corretamen
 * Preencher formulários e verificar se os dados são salvos corretamente.
 * Testar diferentes fluxos de um aplicativo, como login, cadastro, compra, etc.
 
+---
+
 </details>
 
 <details>
-<summary>O que é Teste Automatizado ?</summary>
+<summary>✅ O que é Teste Automatizado ?</summary>
 
 O **Teste Automatizado** é o processo de testar o software **usando ferramentas e scripts**, em vez de fazer tudo manualmente. O objetivo é **executar testes repetitivos de forma rápida e confiável**, liberando o testador para tarefas mais complexas ou criativas.
 
@@ -194,14 +196,14 @@ O **Teste Automatizado** é o processo de testar o software **usando ferramentas
 * **Appium** – automação de aplicativos móveis.
 * **JUnit / TestNG** – frameworks de teste para Java.
 
----
-
 💡 **Dica**: Para começar, é interessante dominar **teste manual primeiro**. Ele te ensina a entender como o software funciona e quais cenários testar. Depois, você aprende automação para **executar testes mais rapidamente e em maior escala**.
+
+---
 
 </details>
 
 <details>
-<summary>O que é Teste Funcional ?</summary>
+<summary>✅ O que é Teste Funcional ?</summary>
 
 O **Teste Funcional** é um tipo de teste de software que verifica se o sistema **cumpre corretamente todas as funcionalidades esperadas**. Ele responde à pergunta:
 
@@ -226,14 +228,14 @@ Ou seja, o foco está **nas ações e resultados do sistema**, e não na forma c
 * Pode ser feito **manual ou automatizado**.
 * Engloba **testes de regressão**, **testes de integração** e **testes de interface** quando focados nas funcionalidades.
 
----
-
 💡 Dica prática: sempre que você pensar em teste funcional, imagine que você é **o usuário**: você testa se o software faz o que você espera que ele faça, sem se preocupar com como ele faz.
+
+---
 
 </details>
 
 <details>
-<summary>O que é Teste Regressivo ?</summary>
+<summary>✅ O que é Teste Regressivo ?</summary>
 
 O **Teste Regressivo** é um tipo de teste que verifica se **uma mudança recente no software (como uma correção de bug, nova funcionalidade ou atualização) não quebrou funcionalidades que já estavam funcionando antes**.
 
@@ -252,8 +254,6 @@ Em outras palavras, ele garante que o sistema **continua funcionando corretament
 * Depois de adicionar uma nova funcionalidade de carrinho de compras, testar se o processo de pagamento ainda funciona.
 * Atualização de versão de um sistema de ERP, garantindo que relatórios antigos continuam corretos.
 
----
-
 💡 **Dica prática:**
 Pense no teste regressivo como **uma “rede de segurança”**: ele garante que novas mudanças não causem efeitos inesperados em partes já testadas do sistema.
 
@@ -264,7 +264,7 @@ Pense no teste regressivo como **uma “rede de segurança”**: ele garante que
 ### Conceitos importantes:
 
 <details>
-<summary>O que é um Caso de Teste ?</summary>
+<summary>✅ O que é um Caso de Teste ?</summary>
 
 Um **Caso de Teste (Test Case)** é um **documento ou conjunto de instruções que descreve uma situação específica a ser testada** em um software. Ele indica **o que testar, como testar e qual resultado é esperado**.
 
@@ -296,15 +296,15 @@ Em outras palavras, é o roteiro que o testador segue para verificar se o sistem
 * **Resultado obtido:** [Preencher após teste]
 * **Status:** [Passou/Falhou]
 
----
-
 💡 **Dica prática:**
 Casos de teste bem escritos ajudam a **garantir que nada importante seja esquecido** e servem de base para **testes manuais ou automáticos**.
+
+---
 
 </details>
 
 <details>
-<summary>O que é um Plano de Teste ?</summary>
+<summary>✅ O que é um Plano de Teste ?</summary>
 
 O **Plano de Teste** é um **documento que descreve toda a estratégia e abordagem para testar um software**. Ele serve como um guia para a equipe de QA sobre **o que será testado, como será testado, por quem e quando**.
 
@@ -339,8 +339,10 @@ O Plano de Teste é essencial para **organizar e documentar todo o processo de Q
 
 </details>
 
+---
+
 <details>
-<summary>O que são Critérios de aceitação ?</summary>
+<summary>✅ O que são Critérios de aceitação ?</summary>
 
 Os **Critérios de Aceitação** são **condições específicas que um produto ou funcionalidade deve cumprir para ser considerado pronto ou aprovado**. Eles ajudam a definir **o que significa “feito”** do ponto de vista do usuário ou do negócio.
 
@@ -373,8 +375,6 @@ Em outras palavras, são regras que dizem:
 * O total do carrinho deve atualizar corretamente a cada alteração.
 * Produtos esgotados não podem ser adicionados.
 
----
-
 💡 **Dica prática:**
 Critérios de aceitação são como uma **checklist oficial de aprovação**. Tudo que está listado deve ser cumprido para que a funcionalidade seja considerada concluída e liberada para o usuário.
 
@@ -385,7 +385,7 @@ Critérios de aceitação são como uma **checklist oficial de aprovação**. Tu
 ### Metodologias Ágeis:
 
 <details>
-<summary>O que é Scrum ?</summary>
+<summary>✅ O que é Scrum ?</summary>
 
 O **Scrum** é uma **metodologia ágil** para gerenciamento de projetos, especialmente usada em **desenvolvimento de software**. Ele ajuda equipes a entregar produtos de forma **incremental e iterativa**, focando na colaboração, adaptação e entrega contínua de valor.
 
@@ -424,15 +424,15 @@ Em vez de planejar tudo de uma vez, o Scrum organiza o trabalho em **pequenos ci
 3. **Sprint Review** – Apresentação do que foi entregue na Sprint.
 4. **Sprint Retrospective** – Avaliação do processo para melhorar continuamente.
 
----
-
 💡 **Dica prática:**
 Para QA, o Scrum ajuda a **integrar os testes no ciclo de desenvolvimento**, permitindo testar funcionalidades assim que são implementadas e garantindo que a qualidade seja contínua, não apenas no final do projeto.
+
+---
 
 </details>
 
 <details>
-<summary>O que é Kanban ?</summary>
+<summary>✅ O que é Kanban ?</summary>
 
 O **Kanban** é uma **metodologia visual de gerenciamento de trabalho**, criada para **otimizar o fluxo de tarefas e reduzir gargalos**. Ele ajuda equipes a **visualizar, priorizar e acompanhar o progresso** das atividades em tempo real.
 
@@ -460,9 +460,9 @@ Enquanto o Scrum organiza o trabalho em Sprints (ciclos fixos), o Kanban é **co
 * Flexibilidade para lidar com mudanças rapidamente.
 * Fácil de integrar com QA, pois testes podem ser visualizados e priorizados junto com desenvolvimento.
 
----
-
 💡 **Dica prática:**
 No QA, o Kanban é ótimo para **organizar casos de teste, bugs e melhorias**, garantindo que nada fique parado e que a equipe tenha clareza do que precisa ser testado ou corrigido.
+
+---
 
 </details>
