@@ -1,6 +1,6 @@
-# IA para QA
+# 🤖 IA para QA
 
-Muitas pessoas me perguntam: “Por onde começar na área de Qualidade de Software?”
+Muitas pessoas me perguntam: **“Por onde começar na área de Qualidade de Software?”**
 Essa dúvida é mais comum do que parece, e pensando nisso, decidi transformar esse questionamento em um projeto que une teoria e prática de forma realista, aproveitando para introduzir o conhecimento em ferramentas modernas de Inteligência Artificial.
 
 A ideia aqui é justamente “juntar o útil ao agradável”: oferecer um caminho estruturado para quem deseja entrar na área, sem perder a praticidade e a aplicabilidade imediata, tornando o aprendizado mais acessível e interessante para o momento atual.
@@ -9,7 +9,7 @@ A ideia aqui é justamente “juntar o útil ao agradável”: oferecer um camin
 
 Antes de mais nada, saber o que precisamos na área de Qualidade de Software. 
 
-Então usando uma [IA](./docs/ia.md) podemos fazer a primeira pergunta atrvés de um [chatbot](https://chatgpt.com/) usando um [prompt](./docs/prompt.md):
+Podemos começar explorando a área de QA usando uma [IA](./docs/ia.md) fazendo a primeira pergunta em um [chatbot](https://chatgpt.com/) usando um [prompt](./docs/prompt.md):
 
 
 ```
