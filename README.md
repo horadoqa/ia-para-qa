@@ -380,8 +380,6 @@ Critérios de aceitação são como uma **checklist oficial de aprovação**. Tu
 
 </details>
 
----
-
 ### Metodologias Ágeis:
 
 <details>
@@ -466,3 +464,67 @@ No QA, o Kanban é ótimo para **organizar casos de teste, bugs e melhorias**, g
 ---
 
 </details>
+
+### 🤝 Contribuições
+
+Toda e qualquer contribuição é muito bem-vinda!
+Seja para corrigir erros, melhorar a documentação ou adicionar novos conteúdos, sua ajuda faz toda a diferença 🚀
+
+---
+
+## 📌 Como contribuir
+
+Siga os passos abaixo para submeter sua contribuição:
+
+1. **Faça um fork do projeto**
+
+2. **Crie uma branch para sua alteração**
+
+   ```bash
+   git checkout -b minha-contribuicao
+   ```
+
+3. **Realize as alterações desejadas**
+
+   * Correção de erros
+   * Melhorias na documentação
+   * Inclusão de novos testes ou exemplos
+
+4. **Faça o commit das suas mudanças**
+
+   ```bash
+   git commit -m "feat: descrição da sua contribuição"
+   ```
+
+5. **Envie para o seu repositório**
+
+   ```bash
+   git push origin minha-contribuicao
+   ```
+
+6. **Abra um Pull Request**
+
+   * Descreva claramente o que foi feito
+   * Se possível, adicione contexto ou prints
+
+---
+
+## 💡 Boas práticas
+
+* Utilize commits descritivos
+* Mantenha o padrão do projeto
+* Teste suas alterações antes de enviar
+* Seja claro na descrição do Pull Request
+
+---
+
+
+
+
+
+
+
+
+
+
+
