@@ -4,9 +4,11 @@ Como utilizar IA no QA ?
 
 Antes de mais nada, saber o que precisamos na área de Qualidade de Software. 
 
-Então usando uma [IA](https://chatgpt.com/) podemos fazer a primeira pergunta a um chatbot:
+Então usando uma [IA](./docs/ia.md) podemos fazer a primeira pergunta atrvés de um [chatbot](https://chatgpt.com/) usando um [prompt](./docs/prompt.md):
 
-> Por onde começar na área e Qualidade de Software ?
+```
+Por onde começar na área e Qualidade de Software ?
+```
 
 <details>
 <summary>Provavalemente a resposta será:</summary>
@@ -141,31 +143,23 @@ Com 1–3 meses de estudo focado, já dá pra começar a aplicar.
 
 ### Tipos de teste:
 
-> O que é teste manual ?
-
 <details>
-<summary></summary>
+<summary>O que é Teste Manual ?</summary>
 
 </details>
 
-> O que é Teste Automatizado ?
-
 <details>
-<summary></summary>
+<summary>O que é Teste Automatizado ?</summary>
 
 </details>
 
-> O que é Teste Funcional ?
-
 <details>
-<summary></summary>
+<summary>O que é Teste Funcional ?</summary>
 
 </details>
 
-> O que é Teste Regressivo ?
-
 <details>
-<summary></summary>
+<summary>O que é Teste Regressivo ?</summary>
 
 </details>
 
